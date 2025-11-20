@@ -64,4 +64,7 @@ This mini-project automates the first analytical steps in a transaction:
 - Present a compact dashboard for decision-makers,
 - Provide a reproducible workflow that can be extended to peer comps and deeper validation.
 
+- ![Diagram](assets/images/BI.jpg)
+
+
 Author: Shine Jose — M.Sc. Informatik (Data Science)
