@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/23658669/README.md)
+
 # Transaction Analysis – LTM Revenue, EBITDA & EV/EBITDA
 
 This project demonstrates a simple, transaction-style financial analysis for M&A, Due Diligence and Corporate Valuation contexts.
@@ -16,11 +16,12 @@ These KPIs are essential in Transaction Services to benchmark valuation, identif
 
 ## Files in this repo
 
-- `notebooks/01_ltmebitda_valuation.ipynb`  — Jupyter notebook with extraction & LTM calculations (single code cell).
-- `app/streamlit_app.py`                   — Streamlit app to display key LTM figures & multiples interactively.
-- `data/financials_raw.csv`                — example export (empty placeholder).
-- `requirements.txt`                       — Python packages required to run the demo.
-- `README.md`                              — this file.
+- `notebooks/01_ltmebitda_valuation.ipynb`  -Jupyter notebook with extraction & LTM calculations (single code cell).
+- `app/streamlit_app.py`                   - Streamlit app to display key LTM figures & multiples interactively.
+- `data/financials_raw.csv`                - example export (empty placeholder).
+- `requirements.txt`                       - Python packages required to run the demo.
+- `Test.pbix`                              - Power BI Run
+- `README.md`                              -this file.
 
 ---
 
